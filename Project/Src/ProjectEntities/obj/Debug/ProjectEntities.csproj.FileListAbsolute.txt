@@ -1,0 +1,18 @@
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ProjectEntities.dll
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ProjectEntities.pdb
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ProjectEntities.xml
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.csprojResolveAssemblyReference.cache
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.dll
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ProjectEntities.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ProjectEntities.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ProjectEntities.xml
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.csprojResolveAssemblyReference.cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.dll
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.xml
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.dll
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities\obj\Debug\ProjectEntities.pdb

@@ -1,0 +1,4 @@
+set solib-search-path /mnt/hgfs/Android/__dev/Game/Src/Game_Android/obj/local/armeabi
+directory /home/vladimir/src/android-ndk/platforms/android-5/arch-arm/usr/include /home/vladimir/src/android-ndk/sources/crystax/include /home/vladimir/src/android-ndk/sources/cxx-stl/gnu-libstdc++/include /home/vladimir/src/android-ndk/sources/cxx-stl/gnu-libstdc++/libs/armeabi/include /mnt/hgfs/Android/__dev/Game/Src/Game_Android/jni
+file /mnt/hgfs/Android/__dev/Game/Src/Game_Android/obj/local/armeabi/app_process
+target remote :5039

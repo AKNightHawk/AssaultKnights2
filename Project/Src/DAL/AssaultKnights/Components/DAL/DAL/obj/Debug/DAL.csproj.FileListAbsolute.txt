@@ -1,0 +1,5 @@
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Project\Bin\DAL.dll.config
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Project\Bin\DAL.dll
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Project\Bin\DAL.pdb
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Components\DAL\DAL\obj\Debug\DAL.dll
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Components\DAL\DAL\obj\Debug\DAL.pdb

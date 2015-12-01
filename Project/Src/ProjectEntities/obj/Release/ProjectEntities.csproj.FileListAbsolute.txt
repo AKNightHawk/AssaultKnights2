@@ -1,0 +1,6 @@
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.dll
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.xml
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities\obj\Release\ProjectEntities.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities\obj\Release\ProjectEntities.dll
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities\obj\Release\ProjectEntities.pdb

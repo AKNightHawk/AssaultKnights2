@@ -1,0 +1,26 @@
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\Game.exe
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\Game.pdb
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\Game.xml
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.exe
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.Properties.Resources.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Game.exe.config
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Game.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Game.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Game.xml
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\Game.exe.config
+F:\NeoAxis_3.3.1_AK\Project\Bin\Game.exe
+F:\NeoAxis_3.3.1_AK\Project\Bin\Game.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\Game.xml
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.Properties.Resources.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.exe
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.pdb

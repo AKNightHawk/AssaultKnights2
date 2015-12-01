@@ -1,0 +1,33 @@
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ChatExample.exe
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ChatExample.pdb
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ChatExample.xml
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.csprojResolveAssemblyReference.cache
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.ClientForm.resources
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.MainForm.resources
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.Properties.Resources.resources
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.ServerForm.resources
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.csproj.GenerateResource.Cache
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.exe
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ChatExample.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ChatExample.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ChatExample.xml
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.csprojResolveAssemblyReference.cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.ClientForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.MainForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.Properties.Resources.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.ServerForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Debug\ChatExample.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ChatExample.exe
+F:\NeoAxis_3.3.1_AK\Project\Bin\ChatExample.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ChatExample.xml
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.ClientForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.MainForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.Properties.Resources.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.ServerForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.csproj.GenerateResource.Cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.exe
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Debug\ChatExample.pdb

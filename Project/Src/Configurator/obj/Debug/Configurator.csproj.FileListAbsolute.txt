@@ -1,0 +1,21 @@
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\Configurator.exe
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\Configurator.pdb
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.MainForm.resources
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.Properties.Resources.resources
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.csproj.GenerateResource.Cache
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.exe
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Configurator.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Configurator.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.MainForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.Properties.Resources.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug\Configurator.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\Configurator.exe
+F:\NeoAxis_3.3.1_AK\Project\Bin\Configurator.pdb
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Debug\Configurator.MainForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Debug\Configurator.Properties.Resources.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Debug\Configurator.csproj.GenerateResource.Cache
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Debug\Configurator.exe
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Debug\Configurator.pdb

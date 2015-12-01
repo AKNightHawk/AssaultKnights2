@@ -1,0 +1,7 @@
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\bin\Debug_64\Configurator.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\bin\Debug_64\Configurator.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug_64\Configurator.MainForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug_64\Configurator.Properties.Resources.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug_64\Configurator.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug_64\Configurator.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Debug_64\Configurator.pdb

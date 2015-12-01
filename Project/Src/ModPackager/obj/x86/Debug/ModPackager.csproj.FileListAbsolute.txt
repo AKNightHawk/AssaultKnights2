@@ -1,0 +1,19 @@
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Bin\ModPackager.exe.config
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Bin\ModPackager.exe
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Bin\ModPackager.pdb
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Src\ModPackager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Src\ModPackager\obj\x86\Debug\ModPackager.Form1.resources
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Src\ModPackager\obj\x86\Debug\ModPackager.Form2.resources
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Src\ModPackager\obj\x86\Debug\ModPackager.Properties.Resources.resources
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Src\ModPackager\obj\x86\Debug\ModPackager.csproj.GenerateResource.Cache
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Src\ModPackager\obj\x86\Debug\ModPackager.exe
+C:\Users\steve.medley\Documents\Projects\Sandbox\Game\Src\ModPackager\obj\x86\Debug\ModPackager.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ModPackager.exe.config
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ModPackager.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ModPackager.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ModPackager\obj\x86\Debug\ModPackager.Form1.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ModPackager\obj\x86\Debug\ModPackager.Form2.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ModPackager\obj\x86\Debug\ModPackager.Properties.Resources.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ModPackager\obj\x86\Debug\ModPackager.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ModPackager\obj\x86\Debug\ModPackager.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ModPackager\obj\x86\Debug\ModPackager.pdb

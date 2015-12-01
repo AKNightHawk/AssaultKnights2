@@ -1,0 +1,10 @@
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ProjectEntities.Editor.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ProjectEntities.Editor.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Release\ProjectEntities.Editor.csprojResolveAssemblyReference.cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Release\ProjectEntities.Editor.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Release\ProjectEntities.Editor.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.Editor.dll
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.Editor.pdb
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities.Editor\obj\Release\ProjectEntities.Editor.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities.Editor\obj\Release\ProjectEntities.Editor.dll
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities.Editor\obj\Release\ProjectEntities.Editor.pdb

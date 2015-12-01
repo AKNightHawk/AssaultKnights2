@@ -1,0 +1,6 @@
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Project\Bin\ConsoleApplication1.exe.config
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Project\Bin\ConsoleApplication1.exe
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Project\Bin\ConsoleApplication1.pdb
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Components\DAL\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Components\DAL\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\NeoAxis1.32\NeoAxis Engine Commercial SDK 1.32\Game\Src\DAL\AssaultKnights\Components\DAL\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

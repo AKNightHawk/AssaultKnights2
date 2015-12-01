@@ -1,0 +1,9 @@
+F:\NeoAxis_3.3.1_AK\Project\Bin\Game.exe.config
+F:\NeoAxis_3.3.1_AK\Project\Bin\Game.exe
+F:\NeoAxis_3.3.1_AK\Project\Bin\Game.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\AssaultKnights.xml
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Release\Game.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Release\Game.Properties.Resources.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Release\Game.csproj.GenerateResource.Cache
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Release\Game.exe
+F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Release\Game.pdb

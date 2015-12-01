@@ -1,0 +1,15 @@
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Configurator.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\Configurator.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Release\Configurator.MainForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Release\Configurator.Properties.Resources.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Release\Configurator.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Release\Configurator.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\Configurator\obj\Release\Configurator.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\Configurator.exe
+F:\NeoAxis_3.3.1_AK\Project\Bin\Configurator.pdb
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Release\Configurator.MainForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Release\Configurator.Properties.Resources.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Release\Configurator.csproj.GenerateResource.Cache
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Release\Configurator.exe
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Release\Configurator.pdb
+F:\NeoAxis_3.3.1_AK\Project\Src\Configurator\obj\Release\Configurator.csprojResolveAssemblyReference.cache

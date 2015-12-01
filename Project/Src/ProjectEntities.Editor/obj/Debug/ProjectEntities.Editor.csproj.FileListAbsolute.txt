@@ -1,0 +1,15 @@
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ProjectEntities.Editor.dll
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Bin\ProjectEntities.Editor.pdb
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.csprojResolveAssemblyReference.cache
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.dll
+C:\Users\night_hawk1111\Documents\Assault Knights 1.32\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ProjectEntities.Editor.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ProjectEntities.Editor.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.csprojResolveAssemblyReference.cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.Editor.dll
+F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectEntities.Editor.pdb
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.dll
+F:\NeoAxis_3.3.1_AK\Project\Src\ProjectEntities.Editor\obj\Debug\ProjectEntities.Editor.pdb

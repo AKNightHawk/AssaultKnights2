@@ -1,0 +1,22 @@
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ChatExample.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ChatExample.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Bin\ChatExample.xml
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.csprojResolveAssemblyReference.cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.ClientForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.MainForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.Properties.Resources.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.ServerForm.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.exe
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\ChatExample\obj\Release\ChatExample.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ChatExample.exe
+F:\NeoAxis_3.3.1_AK\Project\Bin\ChatExample.pdb
+F:\NeoAxis_3.3.1_AK\Project\Bin\ChatExample.xml
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.ClientForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.MainForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.Properties.Resources.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.ServerForm.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.csproj.GenerateResource.Cache
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.exe
+F:\NeoAxis_3.3.1_AK\Project\Src\ChatExample\obj\Release\ChatExample.pdb

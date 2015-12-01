@@ -1,0 +1,12 @@
+F:\NeoAxis_3.3.1_AK\Project\Bin\WPFSimpleExample.exe
+F:\NeoAxis_3.3.1_AK\Project\Bin\WPFSimpleExample.pdb
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\WPFSimpleExample.csprojResolveAssemblyReference.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\MainWindow.baml
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\MainWindow.g.cs
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\App.g.cs
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\WPFSimpleExample_MarkupCompile.cache
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\WPFSimpleExample.g.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\WPFSimpleExample.Properties.Resources.resources
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\WPFSimpleExample.csproj.GenerateResource.Cache
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\WPFSimpleExample.exe
+F:\NeoAxis_3.3.1_AK\Project\Src\WPFSimpleExample\obj\Debug\WPFSimpleExample.pdb

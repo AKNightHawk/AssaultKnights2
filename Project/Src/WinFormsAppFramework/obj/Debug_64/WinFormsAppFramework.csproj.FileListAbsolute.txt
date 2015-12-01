@@ -1,0 +1,6 @@
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\WinFormsAppFramework\bin\Debug_64\WinFormsAppFramework.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\WinFormsAppFramework\bin\Debug_64\WinFormsAppFramework.pdb
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\WinFormsAppFramework\obj\Debug_64\WinFormsAppFramework.RenderTargetUserControl.resources
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\WinFormsAppFramework\obj\Debug_64\WinFormsAppFramework.csproj.GenerateResource.Cache
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\WinFormsAppFramework\obj\Debug_64\WinFormsAppFramework.dll
+F:\NeoAxis1.32\NeoAxis Engine AK 3.2\AssaultKnights3.2.085\Project\Src\WinFormsAppFramework\obj\Debug_64\WinFormsAppFramework.pdb
