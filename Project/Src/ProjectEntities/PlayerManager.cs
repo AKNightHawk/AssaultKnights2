@@ -437,9 +437,9 @@ namespace ProjectEntities
         //{
         //    try
         //    {
-        //        //string connStr = "SERVER=sagamedb02.db.9001248.hostedresource.com;" + "DATABASE=sagamedb02;" + "UID=sagamedb02;" + "PASSWORD=SA.gamedb@2;";
-        //        //string connStr = "SERVER=dframe.mysql.guardedhost.com;" + "DATABASE=billCAT;" + "UID=BillKo;" + "PASSWORD=M@rlb0r0;";
-        //        string localhost = "SERVER=localhost;" + "DATABASE=PHPApp" + "UID=localhost" + "PASSWORD=$PASSWORD$;"; 
+        //        //string connStr = "SERVER=;" + "DATABASE=;" + "UID=;" + "PASSWORD=;";
+        //        //string connStr = "SERVER=;" + "DATABASE=" + "UID=" + "PASSWORD=;";
+        //        string localhost = "SERVER=" + "DATABASE=" + "UID=" + "PASSWORD="; 
         //        MySqlConnection con = new MySqlConnection(connStr);  //localhost
         //        con.Open();
 
