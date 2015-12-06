@@ -43,3 +43,12 @@ F:\NeoAxis_3.3.1_AK\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.Proper
 F:\NeoAxis_3.3.1_AK\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.csproj.GenerateResource.Cache
 F:\NeoAxis_3.3.1_AK\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.exe
 F:\NeoAxis_3.3.1_AK\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.pdb
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\DedicatedServer.exe
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\DedicatedServer.pdb
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\DedicatedServer.xml
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.csprojResolveAssemblyReference.cache
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.MainForm.resources
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.Properties.Resources.resources
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.csproj.GenerateResource.Cache
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.exe
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\DedicatedServer\obj\Debug\DedicatedServer.pdb

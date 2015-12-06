@@ -82,7 +82,9 @@ namespace ProjectCommon
 
             spawnInfoToClient = RegisterMessageType("SpawnInfoToClient", 4,
                 ReceiveMessage_SpawnInfoToClient);
-        }
+			RegisterMessageType( "SpawnInfoToServer", 5,
+				ReceiveMessage_SpawnInfoToServer );
+		}
 
         public void SendToServer(string message, string data)
         {
@@ -119,5 +121,11 @@ namespace ProjectCommon
 
             return true;
         }
-    }
+
+	    private bool ReceiveMessage_SpawnInfoToServer(NetworkNode.ConnectedNode sender, MessageType messageType,
+		    ReceiveDataReader reader, ref string additionalErrorMessage)
+	    {
+		    return ReceiveMessage_SpawnInfoToClient(sender, messageType, reader, ref additionalErrorMessage);
+	    }
+	}
 }

@@ -438,8 +438,8 @@ namespace ProjectEntities
         //    try
         //    {
         //        //string connStr = "SERVER=;" + "DATABASE=;" + "UID=;" + "PASSWORD=;";
-        //        //string connStr = "SERVER=;" + "DATABASE=" + "UID=" + "PASSWORD=;";
-        //        string localhost = "SERVER=" + "DATABASE=" + "UID=" + "PASSWORD="; 
+        //        //string connStr = "SERVER=;" + "DATABASE=;" + "UID=;" + "PASSWORD=;";
+        //        string localhost = "SERVER=;" + "DATABASE=" + "UID=" + "PASSWORD=;"; 
         //        MySqlConnection con = new MySqlConnection(connStr);  //localhost
         //        con.Open();
 

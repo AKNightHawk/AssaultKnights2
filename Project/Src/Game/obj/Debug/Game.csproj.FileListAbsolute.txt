@@ -24,3 +24,12 @@ F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.Properties.Resources.resourc
 F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.csproj.GenerateResource.Cache
 F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.exe
 F:\NeoAxis_3.3.1_AK\Project\Src\Game\obj\Debug\Game.pdb
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.pdb
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\Game.exe.config
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\Game.exe
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\Game.pdb
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\Game.xml
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\Game\obj\Debug\Game.exe

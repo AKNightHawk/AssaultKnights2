@@ -4,9 +4,116 @@
         <name>Game</name>
     </assembly>
     <members>
+        <member name="T:Game.OptionsWindow">
+            <summary>
+            Defines a window of options.
+            </summary>
+        </member>
+        <member name="F:Game.OptionsWindow.MainOptionsTabControl">
+            <summary>
+            CreateAdd_Custom_Control_Dialogue() support code
+            </summary>
+        </member>
+        <member name="M:Game.OptionsWindow.CreateAdd_Custom_Control_Dialogue">
+            <summary>
+             ____MADE IN THE +
+             USA + France +
+             ___ InCin filtering by combo boxes and listboxes --- all me
+            void CreateAdd_Custom_Control_Dialogue()
+            populate all drop downs and comboboxes
+            filter by device or device Type
+            hide unneeded info or unhide pages
+             </summary>
+        </member>
+        <member name="T:Game.ProductLogoWindow">
+            <summary>
+            Defines a your project logo window.
+            </summary>
+        </member>
+        <member name="T:Game.EngineLogoWindow">
+            <summary>
+            Defines a NeoAxis Engine Logo window.
+            </summary>
+        </member>
+        <member name="T:Game.MapsWindow">
+            <summary>
+            Defines a window of map choice.
+            </summary>
+        </member>
+        <member name="T:Game.PlatformerDemoGameWindow">
+            <summary>
+            Defines a game window for PlatformerDemo.
+            </summary>
+        </member>
+        <member name="T:Game.GameWindow">
+            <summary>
+            Defines a base window of game.
+            </summary>
+        </member>
+        <member name="M:Game.PlatformerDemoGameWindow.UpdateHUD">
+            <summary>
+            Updates HUD screen
+            </summary>
+        </member>
         <member name="T:Game.MessageBoxWindow">
             <summary>
             Defines a "MessageBox" window.
+            </summary>
+        </member>
+        <member name="T:Game.Program">
+            <summary>
+            Defines an input point in the application.
+            </summary>
+        </member>
+        <member name="M:Game.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Game.MainMenuWindow">
+            <summary>
+            Defines a main menu.
+            </summary>
+        </member>
+        <member name="M:Game.MainMenuWindow.OnAttach">
+            <summary>
+            Creates a window of the main menu and creates the background world.
+            </summary>
+        </member>
+        <member name="M:Game.MainMenuWindow.OnDetach">
+            <summary>
+            Destroys the background world at closing the main menu.
+            </summary>
+        </member>
+        <member name="M:Game.MainMenuWindow.CreateMap">
+            <summary>
+            Creates the background world.
+            </summary>
+        </member>
+        <member name="M:Game.MainMenuWindow.DestroyMap">
+            <summary>
+            Destroys the background world.
+            </summary>
+        </member>
+        <member name="T:Game.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Game.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Game.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Game.Properties.Resources.Logo">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
             </summary>
         </member>
         <member name="T:Game.PlayerSpawnWindow">
@@ -14,14 +121,25 @@
             Defines a window of map choice.
             </summary>
         </member>
+        <member name="F:Game.CommandBindingWindow.MainOptionsTabControl">
+            <summary>
+            CreateAdd_Custom_Control_Dialogue() support code
+            </summary>
+        </member>
+        <member name="M:Game.CommandBindingWindow.CreateAdd_Custom_Control_Dialogue">
+            <summary>
+             ____MADE IN THE +
+             USA + France +
+             ___ InCin filtering by combo boxes and listboxes --- all me
+            void CreateAdd_Custom_Control_Dialogue()
+            populate all drop downs and comboboxes
+            filter by device or device Type
+            hide unneeded info or unhide pages
+             </summary>
+        </member>
         <member name="T:Game.ActionGameWindow">
             <summary>
             Defines a game window for FPS and TPS games.
-            </summary>
-        </member>
-        <member name="T:Game.GameWindow">
-            <summary>
-            Defines a base window of game.
             </summary>
         </member>
         <member name="M:Game.ActionGameWindow.UpdateCurrentPlayerUseObjects">
@@ -71,106 +189,19 @@
             <param name="cameraFov">The camera FOV.</param>
             <returns><b>true</b>if the player is in any area; otherwise <b>false</b>.</returns>
         </member>
-        <member name="T:Game.GameEngineApp">
-            <summary>
-            Defines a game application.
-            </summary>
-        </member>
-        <member name="T:Game.PlayerBuyWindow">
-            <summary>
-            Defines a window of map choice.
-            </summary>
-        </member>
         <member name="T:Game.AboutWindow">
             <summary>
             Defines a about us window.
             </summary>
         </member>
-        <member name="T:Game.Properties.Resources">
+        <member name="T:Game.MenuWindow">
             <summary>
-              A strongly-typed resource class, for looking up localized strings, etc.
+            Defines a system game menu.
             </summary>
         </member>
-        <member name="P:Game.Properties.Resources.ResourceManager">
+        <member name="T:Game.VillageDemoGameWindow">
             <summary>
-              Returns the cached ResourceManager instance used by this class.
-            </summary>
-        </member>
-        <member name="P:Game.Properties.Resources.Culture">
-            <summary>
-              Overrides the current thread's CurrentUICulture property for all
-              resource lookups using this strongly typed resource class.
-            </summary>
-        </member>
-        <member name="P:Game.Properties.Resources.Logo">
-            <summary>
-              Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
-            </summary>
-        </member>
-        <member name="T:Game.MainMenuWindow">
-            <summary>
-            Defines a main menu.
-            </summary>
-        </member>
-        <member name="M:Game.MainMenuWindow.OnAttach">
-            <summary>
-            Creates a window of the main menu and creates the background world.
-            </summary>
-        </member>
-        <member name="M:Game.MainMenuWindow.OnDetach">
-            <summary>
-            Destroys the background world at closing the main menu.
-            </summary>
-        </member>
-        <member name="M:Game.MainMenuWindow.CreateMap">
-            <summary>
-            Creates the background world.
-            </summary>
-        </member>
-        <member name="M:Game.MainMenuWindow.DestroyMap">
-            <summary>
-            Destroys the background world.
-            </summary>
-        </member>
-        <member name="T:Game.TurretDemoGameWindow">
-            <summary>
-            Defines a game window for TurretDemo.
-            </summary>
-        </member>
-        <member name="T:Game.OptionsWindow">
-            <summary>
-            Defines a window of options.
-            </summary>
-        </member>
-        <member name="F:Game.OptionsWindow.MainOptionsTabControl">
-            <summary>
-            CreateAdd_Custom_Control_Dialogue() support code
-            </summary>
-        </member>
-        <member name="M:Game.OptionsWindow.CreateAdd_Custom_Control_Dialogue">
-            <summary>
-             ____MADE IN THE +
-             USA + France +
-             ___ InCin filtering by combo boxes and listboxes --- all me
-            void CreateAdd_Custom_Control_Dialogue()
-            populate all drop downs and comboboxes
-            filter by device or device Type
-            hide unneeded info or unhide pages
-             </summary>
-        </member>
-        <member name="T:Game.MapsWindow">
-            <summary>
-            Defines a window of map choice.
-            </summary>
-        </member>
-        <member name="T:Game.PlatformerDemoGameWindow">
-            <summary>
-            Defines a game window for PlatformerDemo.
-            </summary>
-        </member>
-        <member name="M:Game.PlatformerDemoGameWindow.UpdateHUD">
-            <summary>
-            Updates HUD screen
+            Defines a game window for Mountain Village Demo.
             </summary>
         </member>
         <member name="T:Game.PathfindingDemoGameWindow">
@@ -181,6 +212,31 @@
         <member name="M:Game.PathfindingDemoGameWindow.UpdateHUD">
             <summary>
             Updates HUD screen
+            </summary>
+        </member>
+        <member name="T:Game.GameEngineApp">
+            <summary>
+            Defines a game application.
+            </summary>
+        </member>
+        <member name="T:Game.BallGameWindow">
+            <summary>
+            Defines a game window for ball game demo
+            </summary>
+        </member>
+        <member name="T:Game.TurretDemoGameWindow">
+            <summary>
+            Defines a game window for TurretDemo.
+            </summary>
+        </member>
+        <member name="T:Game.JigsawPuzzleGameWindow">
+            <summary>
+            Defines a game window for Jigsaw Puzzle Game Example
+            </summary>
+        </member>
+        <member name="T:Game.PlayerBuyWindow">
+            <summary>
+            Defines a window of map choice.
             </summary>
         </member>
         <member name="T:Game.AKGameWindow">
@@ -234,62 +290,6 @@
             <param name="up">The up vector.</param>
             <param name="cameraFov">The camera FOV.</param>
             <returns><b>true</b>if the player is in any area; otherwise <b>false</b>.</returns>
-        </member>
-        <member name="T:Game.Program">
-            <summary>
-            Defines an input point in the application.
-            </summary>
-        </member>
-        <member name="M:Game.Program.Main">
-            <summary>
-            The main entry point for the application.
-            </summary>
-        </member>
-        <member name="T:Game.VillageDemoGameWindow">
-            <summary>
-            Defines a game window for Mountain Village Demo.
-            </summary>
-        </member>
-        <member name="T:Game.ProductLogoWindow">
-            <summary>
-            Defines a your project logo window.
-            </summary>
-        </member>
-        <member name="T:Game.JigsawPuzzleGameWindow">
-            <summary>
-            Defines a game window for Jigsaw Puzzle Game Example
-            </summary>
-        </member>
-        <member name="T:Game.EngineLogoWindow">
-            <summary>
-            Defines a NeoAxis Engine Logo window.
-            </summary>
-        </member>
-        <member name="T:Game.BallGameWindow">
-            <summary>
-            Defines a game window for ball game demo
-            </summary>
-        </member>
-        <member name="T:Game.MenuWindow">
-            <summary>
-            Defines a system game menu.
-            </summary>
-        </member>
-        <member name="F:Game.CommandBindingWindow.MainOptionsTabControl">
-            <summary>
-            CreateAdd_Custom_Control_Dialogue() support code
-            </summary>
-        </member>
-        <member name="M:Game.CommandBindingWindow.CreateAdd_Custom_Control_Dialogue">
-            <summary>
-             ____MADE IN THE +
-             USA + France +
-             ___ InCin filtering by combo boxes and listboxes --- all me
-            void CreateAdd_Custom_Control_Dialogue()
-            populate all drop downs and comboboxes
-            filter by device or device Type
-            hide unneeded info or unhide pages
-             </summary>
         </member>
     </members>
 </doc>

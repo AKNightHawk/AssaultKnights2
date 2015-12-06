@@ -431,7 +431,7 @@ namespace ProjectEntities
                 for (int n = 0; n < Type.Weapons.Count; n++)
                     weapons.Add(new WeaponItem());
             }
-            if (EngineApp.Instance.ApplicationType != EngineApp.ApplicationTypes.ResourceEditor)
+            if (EngineApp.Instance.ApplicationType != EngineApp.ApplicationTypes.ResourceEditor && !EntitySystemWorld.Instance.IsClientOnly())
             {
                 if (GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
                 {

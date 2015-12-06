@@ -30,9 +30,9 @@ namespace ProjectCommon
                 set { faction = value; }
             }
 
-            private string spawnid;
+            private uint spawnid;
 
-            public string SpawnId
+            public uint SpawnId
             {
                 get { return spawnid; }
                 set { spawnid = value; }

@@ -244,7 +244,7 @@ namespace Game
                 SpawnPoint.SelectedSinglePlayerPoint = selectedSpawnPoint.sp; //iNCIN added this -- test
                 GameNetworkServer.Instance.UserManagementService.ServerUser.Faction = selectedSpawnPoint.sp.Faction.Name;
                 GameNetworkServer.Instance.UserManagementService.ServerUser.DefaultSpawnPoint = selectedSpawnPoint.sp.NetworkUIN;
-                GameNetworkServer.Instance.UserManagementService.ServerUser.SpawnId = selectedSpawnPoint.sp.SpawnID.ToString();
+                GameNetworkServer.Instance.UserManagementService.ServerUser.SpawnId = (uint)selectedSpawnPoint.sp.SpawnID;
                 GameEngineApp.Instance.CreateGameWindowForMap();
             }
             else if (GameNetworkClient.Instance != null)
@@ -254,7 +254,7 @@ namespace Game
                 GameNetworkClient.Instance.UserManagementService.ThisUser.DefaultSpawnPoint = selectedSpawnPoint.sp.NetworkUIN;
                 SpawnPoint.SelectedSinglePlayerPoint = selectedSpawnPoint.sp;
 
-                GameNetworkClient.Instance.CustomMessagesService.SendToServer("spawnInfoToServer", GameNetworkClient.Instance.UserManagementService.ThisUser + ";" + selectedSpawnPoint.spid + ";" + selectedSpawnPoint.sp.Faction.Name);
+                GameNetworkClient.Instance.CustomMessagesService.SendToServer( "SpawnInfoToServer", GameNetworkClient.Instance.UserManagementService.ThisUser.Identifier + ";" + (uint)selectedSpawnPoint.sp.SpawnID + ";" + selectedSpawnPoint.sp.Faction.Name);
                 //GameNetworkClient.Instance.UserManagementService.RecieveMessage_SpawnInformationToClient(GameNetworkClient.Instance.UserManagementService.Owner.ServerConnectedNode,
                 //    "spawnInfoToServer", selectedSpawnPoint.sp.NetworkUIN.ToString() + ";" + selectedSpawnPoint.sp.Faction.Name.ToString(), ref error);
                 //        //GameNetworkClient.Instance.UserManagementService.RecieveMessage_SpawnInformationToServer(
@@ -262,7 +262,7 @@ namespace Game
                 //        //selectedSpawnPoint.sp.Faction.Name);
 
                 //GameNetworkClient.Instance.CustomMessagesService.ReceiveMessage +=new CustomMessagesClientNetworkService.ReceiveMessageDelegate(CustomMessagesService_ReceiveMessage);
-                //GameEngineApp.Instance.CreateGameWindowForMap();
+                GameEngineApp.Instance.CreateGameWindowForMap();
             }
             else
             {

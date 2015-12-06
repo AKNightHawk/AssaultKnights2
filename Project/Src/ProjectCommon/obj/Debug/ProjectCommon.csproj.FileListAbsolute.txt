@@ -16,3 +16,9 @@ F:\NeoAxis_3.3.1_AK\Project\Bin\ProjectCommon.xml
 F:\NeoAxis_3.3.1_AK\Project\Src\ProjectCommon\obj\Debug\ProjectCommon.csprojResolveAssemblyReference.cache
 F:\NeoAxis_3.3.1_AK\Project\Src\ProjectCommon\obj\Debug\ProjectCommon.dll
 F:\NeoAxis_3.3.1_AK\Project\Src\ProjectCommon\obj\Debug\ProjectCommon.pdb
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\ProjectCommon.dll
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\ProjectCommon.pdb
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Bin\ProjectCommon.xml
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\ProjectCommon\obj\Debug\ProjectCommon.csprojResolveAssemblyReference.cache
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\ProjectCommon\obj\Debug\ProjectCommon.dll
+C:\Users\Carla's\Documents\Assault Knights\AssaultKnights3.2.085\Project\Src\ProjectCommon\obj\Debug\ProjectCommon.pdb

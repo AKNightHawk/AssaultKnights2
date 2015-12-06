@@ -54,7 +54,7 @@ namespace Game
 
         #region Community Dev Tools
 
-        private DebugWindow debugwindow;
+        //private DebugWindow debugwindow;
 
         #endregion Community Dev Tools
 
@@ -679,30 +679,30 @@ namespace Game
             #region Community dev tools
 
             //Live Debug Window
-            if (e.Key == EKeys.F9 && !EngineApp.Instance.FullScreen)
-            {
-                //the order of if's is important
+            /* if (e.Key == EKeys.F9 && !EngineApp.Instance.FullScreen)
+             {
+                 //the order of if's is important
 
-                if (debugwindow == null)//create
-                {
-                    debugwindow = new DebugWindow();
-                    debugwindow.Show();
-                    debugwindow.SaveEntityType();
-                    EngineApp.Instance.MouseRelativeMode = debugwindow.Visible;
-                }
-                else if (debugwindow != null && debugwindow.Visible)
-                {
-                    debugwindow.Visible = false;
-                    debugwindow.Hide();
-                    EngineApp.Instance.MouseRelativeMode = debugwindow.Visible;
-                }
-                else //if( window != null && !window.Visible )
-                {
-                    debugwindow.Visible = true;
-                    debugwindow.Activate();
-                    EngineApp.Instance.MouseRelativeMode = debugwindow.Visible;
-                }
-            }
+                 if (debugwindow == null)//create
+                 {
+                     debugwindow = new DebugWindow();
+                     debugwindow.Show();
+                     debugwindow.SaveEntityType();
+                     EngineApp.Instance.MouseRelativeMode = debugwindow.Visible;
+                 }
+                 else if (debugwindow != null && debugwindow.Visible)
+                 {
+                     debugwindow.Visible = false;
+                     debugwindow.Hide();
+                     EngineApp.Instance.MouseRelativeMode = debugwindow.Visible;
+                 }
+                 else //if( window != null && !window.Visible )
+                 {
+                     debugwindow.Visible = true;
+                     debugwindow.Activate();
+                     EngineApp.Instance.MouseRelativeMode = debugwindow.Visible;
+                 }
+             }*/
 
             #endregion Community dev tools
 

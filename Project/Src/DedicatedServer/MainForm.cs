@@ -343,7 +343,7 @@ namespace DedicatedServer
 		{
 			//Warning! Messages must be checked by security reasons.
 			//Modified client application can send any message with any data.
-
+			
 			if( allowCustomClientCommands )
 			{
 				//load map
@@ -382,6 +382,5 @@ namespace DedicatedServer
 		{
 			allowCustomClientCommands = checkBoxAllowCustomClientCommands.Checked;
 		}
-
 	}
 }

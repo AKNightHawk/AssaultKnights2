@@ -61,16 +61,26 @@ namespace ProjectEntities
                         "PlayerManager", this);
                     manager.PostCreate();
                 }
-            }
+	            if (EntitySystemWorld.Instance.IsServer())
+	            {
+		            GameNetworkServer.Instance.CustomMessagesService.ReceiveMessage += SpawnInfo;
+	            }
+
+			}
         }
 
         /// <summary>Overridden from <see cref="Engine.EntitySystem.Entity.OnDestroy()"/>.</summary>
         protected override void OnDestroy()
         {
-            base.OnDestroy();
+			if( EntitySystemWorld.Instance.IsServer() )
+			{
+				GameNetworkServer.Instance.CustomMessagesService.ReceiveMessage -= SpawnInfo;
+			}
+			base.OnDestroy();
 
             instance = null;
-        }
+			
+		}
 
         /// <summary>Overridden from <see cref="Engine.EntitySystem.Entity.OnTick()"/>.</summary>
         protected override void OnTick()
@@ -197,8 +207,12 @@ namespace ProjectEntities
                         {
                             if (player.Intellect != null && player.Intellect.ControlledObject == null)
                             {
-                                if (GameMap.Instance.GameType != GameMap.GameTypes.AssaultKnights)
-                                {
+	                            if (GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
+	                            {
+									ServerOrSingle_CreatePlayerUnit( player );
+								}
+									else
+								{
                                     ServerOrSingle_CreatePlayerUnit(player);
                                 }
                             }
@@ -295,75 +309,95 @@ namespace ProjectEntities
             needChangeMapPlayerCharacterInformation = null;
         }
 
-        public Unit AKServerOrSingle_CreatePlayerUnit(PlayerManager.ServerOrSingle_Player player,
-            MapObject spawnPoint, string faction)
-        {
-            string unitTypeName;
-            FactionType AKFaction;
+		//public Unit AKServerOrSingle_CreatePlayerUnit(PlayerManager.ServerOrSingle_Player player,
+		//    MapObject spawnPoint, string faction)
+		//{
+		//    string unitTypeName;
+		//    FactionType AKFaction;
 
-            //PlayerIntellect intellect = player.Intellect as PlayerIntellect; //invalid
-            if (faction.ToString().Equals("AssaultKnights") || faction.ToString().Equals("AssaultKnights (Faction)"))
-                AKFaction = (FactionType)Entities.Instance.Create("AssaultKnights", Map.Instance).Type;
-            else
-                AKFaction = (FactionType)Entities.Instance.Create("Omni", Map.Instance).Type;
+		//    //PlayerIntellect intellect = player.Intellect as PlayerIntellect; //invalid
+		//    if (faction.ToString().Equals("AssaultKnights") || faction.ToString().Equals("AssaultKnights (Faction)"))
+		//        AKFaction = (FactionType)Entities.Instance.Create("AssaultKnights", Map.Instance).Type;
+		//    else
+		//        AKFaction = (FactionType)Entities.Instance.Create("Omni", Map.Instance).Type;
 
-            if (GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
-            {
-                if (player.Intellect.Faction == null)
-                    player.Intellect.Faction = AKFaction;
-                else if (player.Intellect.Faction != AKFaction)
-                    player.Intellect.Faction = AKFaction;
-                else
-                    player.Intellect.Faction = AKFaction;
-            }
+		//    if (GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
+		//    {
+		//        if (player.Intellect.Faction == null)
+		//            player.Intellect.Faction = AKFaction;
+		//        else if (player.Intellect.Faction != AKFaction)
+		//            player.Intellect.Faction = AKFaction;
+		//        else
+		//            player.Intellect.Faction = AKFaction;
+		//    }
 
-            if (!player.Bot)
-            {
-                if (player.Intellect.Faction.Name == "AssaultKnights" && GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
-                    unitTypeName = "AKSoldier";
-                else if (player.Intellect.Faction.Name == "Omni" && GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
-                    unitTypeName = "OmniSoldier";
-                else if (GameMap.Instance.PlayerUnitType != null)
-                    unitTypeName = GameMap.Instance.PlayerUnitType.Name;
-                else
-                    unitTypeName = "Girl";
-            }
-            else if (player.Bot)
-                unitTypeName = player.Name;
-            else
-                unitTypeName = "Rabbit";
+		//    if (!player.Bot)
+		//    {
+		//        if (player.Intellect.Faction.Name == "AssaultKnights" && GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
+		//            unitTypeName = "AKSoldier";
+		//        else if (player.Intellect.Faction.Name == "Omni" && GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
+		//            unitTypeName = "OmniSoldier";
+		//        else if (GameMap.Instance.PlayerUnitType != null)
+		//            unitTypeName = GameMap.Instance.PlayerUnitType.Name;
+		//        else
+		//            unitTypeName = "Girl";
+		//    }
+		//    else if (player.Bot)
+		//        unitTypeName = player.Name;
+		//    else
+		//        unitTypeName = "Rabbit";
 
-            Unit unit = (Unit)Entities.Instance.Create(unitTypeName, Map.Instance);
+		//    Unit unit = (Unit)Entities.Instance.Create(unitTypeName, Map.Instance);
 
-            Vec3 posOffset = new Vec3(0, 0, 1.5f);
-            unit.Position = spawnPoint.Position + posOffset;
-            unit.Rotation = spawnPoint.Rotation;
+		//    Vec3 posOffset = new Vec3(0, 0, 1.5f);
+		//    unit.Position = spawnPoint.Position + posOffset;
+		//    unit.Rotation = spawnPoint.Rotation;
 
-            if (GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
-                unit.InitialFaction = AKFaction;//player.Intellect.Faction;
+		//    if (GameMap.Instance.GameType == GameMap.GameTypes.AssaultKnights)
+		//        unit.InitialFaction = AKFaction;//player.Intellect.Faction;
 
-            unit.PostCreate();
+		//    unit.PostCreate();
 
-            if (player.Intellect != null)
-            {
-                player.Intellect.Faction = AKFaction;//player.Intellect.Faction;
-                player.Intellect.ControlledObject = unit;
-                unit.SetIntellect(player.Intellect, false);
-            }
+		//    if (player.Intellect != null)
+		//    {
+		//        player.Intellect.Faction = AKFaction;//player.Intellect.Faction;
+		//        player.Intellect.ControlledObject = unit;
+		//        unit.SetIntellect(player.Intellect, false);
+		//    }
 
-            Teleporter teleporter = spawnPoint as Teleporter;
-            if (teleporter != null)
-                teleporter.ReceiveObject(unit, null);
+		//    Teleporter teleporter = spawnPoint as Teleporter;
+		//    if (teleporter != null)
+		//        teleporter.ReceiveObject(unit, null);
 
-            BoxTeleporter boxteleporter = spawnPoint as BoxTeleporter;
-            if (boxteleporter != null)
-                boxteleporter.ReceiveObject(unit, null);
+		//    BoxTeleporter boxteleporter = spawnPoint as BoxTeleporter;
+		//    if (boxteleporter != null)
+		//        boxteleporter.ReceiveObject(unit, null);
 
-            return unit;
-        }
+		//    return unit;
+		//}
 
-        //original 1.32 code -- Incin
-        private Unit ServerOrSingle_CreatePlayerUnit(PlayerManager.ServerOrSingle_Player player)
+		public static void SpawnInfo( CustomMessagesServerNetworkService sender,
+		   NetworkNode.ConnectedNode info, string message, string data )
+		{
+			if( message == "SpawnInfoToServer" )
+			{
+				string[] parameters = data.Split( ';' );
+				string userid = parameters[ 0 ];
+				string selectedspawnid = parameters[ 1 ];
+				string selectedfaction = parameters[ 2 ];
+				//SpawnPoint target = null;
+
+				var user = GameNetworkServer.Instance.UserManagementService.GetUser( uint.Parse( userid ) );
+
+				user.SpawnId = uint.Parse( selectedspawnid );
+				var player = PlayerManager.Instance.ServerOrSingle_GetPlayer( user );
+				player.Intellect.Faction = EntityTypes.Instance.GetByName( selectedfaction ) as FactionType;
+
+			}
+		}
+
+		//original 1.32 code -- Incin
+		private Unit ServerOrSingle_CreatePlayerUnit(PlayerManager.ServerOrSingle_Player player)
         {
             SpawnPoint spawnPoint = null;
 
@@ -372,23 +406,25 @@ namespace ProjectEntities
                 List<SpawnPoint> instancePoints = SpawnPoint.Instances();
                 foreach (SpawnPoint sp in instancePoints)
                 {
-                    if (sp == null)
+                    if (sp == null || sp.Faction == null) //Incin -- additional check 
                         return null;
 
                     if (sp.Faction != player.Intellect.Faction)
                         continue;
+	                if (sp.SpawnID != (SpawnPoint.SpawnId) player.User.SpawnId)
+		                continue;
+					//spawnPoint = SpawnPoint.GetDefaultSpawnPoint();
+	                spawnPoint = sp;
 
-                    spawnPoint = SpawnPoint.GetDefaultSpawnPoint();
-
-                    if (spawnPoint != null)
+					if (spawnPoint != null)
                         return ServerOrSingle_CreatePlayerUnit(player, spawnPoint);
 
-                    //Other Game Modes
-                    if (spawnPoint == null)
-                        spawnPoint = SpawnPoint.GetDefaultSpawnPoint();
+                    ////Other Game Modes
+                    //if (spawnPoint == null)
+                    //    spawnPoint = SpawnPoint.GetDefaultSpawnPoint();
 
-                    if (spawnPoint == null)
-                        spawnPoint = SpawnPoint.GetFreeRandomSpawnPoint();
+                    //if (spawnPoint == null)
+                    //    spawnPoint = SpawnPoint.GetFreeRandomSpawnPoint();
 
                     if (spawnPoint == null)
                         return null;
@@ -450,6 +486,11 @@ namespace ProjectEntities
             Teleporter teleporter = spawnPoint as Teleporter;
             if (teleporter != null)
                 teleporter.ReceiveObject(unit, null);
+
+            //Incin -- Custom Box teleporter
+            BoxTeleporter boxteleporter = spawnPoint as BoxTeleporter; 
+            if (boxteleporter != null)
+                boxteleporter.ReceiveObject(unit, null);
 
             return unit;
         }
